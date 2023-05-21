@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @sujanprodhan
+- 👋 Hi, I’m Sujan
+- 9 Years experiences on full stack development 
+- Currently working as a techincal lead.
 - 👀 I’m interested in Fullstack development ( React JS, Next JS, Node JS, PHP, Laravel)
 - 🌱 I’m currently learning Typescript with react.
 - 💞️ I’m looking to collaborate on Fullstack development ( React JS, Next JS, Node JS, PHP, Laravel)
